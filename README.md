@@ -16,7 +16,7 @@ The objective was to design and implement a simple **Automated Hand Sanitizer**.
 - **Cooldown System**: 1.5-second lockout prevents multiple unintended activations
 - **Reliable Actuation**: High-torque servo motor ensures consistent pump pressing
 - **Real-time Monitoring**: Serial output displays distance readings for debugging
-- **Custom Housing**: Fully wooden enclosure designed to accommodate all components
+- **Housing**: Fully wooden enclosure designed to accommodate all components
 - **Low Power**: Operates on standard 5V USB power supply
 
 
