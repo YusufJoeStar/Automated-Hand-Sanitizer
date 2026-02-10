@@ -60,7 +60,8 @@ The objective was to design and implement a simple **Automated Hand Sanitizer**.
 - Servo horn must be centered before lever arm attachment
 - Wiring secured to prevent disconnection during servo motion
 - Bottle positioned for reliable pump head contact
-<img width="520" height="656" alt="image" src="https://github.com/user-attachments/assets/b23a3c45-b6ce-4588-95f0-8e6441503ab7" />
+<img width="453" height="660" alt="image" src="https://github.com/user-attachments/assets/9e48ff08-6c45-4eee-94f4-f9e0a525ae8c" />
+
 <img width="372" height="641" alt="image" src="https://github.com/user-attachments/assets/34f17535-2250-4129-a19f-978d218d0768" />
 
 
