@@ -2,7 +2,7 @@
 #include <NewPing.h>
 
 Servo dispenserServo;
- float lastDispenseTime = 0;
+float lastDispenseTime = 0;
 
 int TRIG_PIN = 9; //initialized to pin 9 on arduino
 int ECHO_PIN = 8; //initialized to pin 8 on arduino
@@ -60,3 +60,4 @@ void dispenseSanitizer() {
   // returns to its original position
   dispenserServo.write(RELEASE_ANGLE);
 }
+
