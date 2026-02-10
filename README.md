@@ -1,6 +1,6 @@
 # Automated Hand Sanitizer Dispenser
 ## Project Overview
-This project is a **university group project** completed by a team of 5 members within a 1-week timeframe as part of the **Sensors and Metrology course**.  
+This is a **university group project** completed by a team of 5 members within a 1-week timeframe as part of the **Sensors and Metrology course**.  
 
 The objective was to design and implement a simple **Automated Hand Sanitizer**.
 
